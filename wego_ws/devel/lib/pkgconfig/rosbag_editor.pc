@@ -1,0 +1,8 @@
+prefix=/home/wego/wego_ws/devel
+
+Name: rosbag_editor
+Description: Description of rosbag_editor
+Version: 0.4.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rosbag rosbag_storage roscpp tf2_msgs tf

@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /home/wego/wego_ws/src
+# Build directory: /home/wego/wego_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("fiducials/fiducials")
+subdirs("image_pipeline/image_pipeline")
+subdirs("racecar/racecar")
+subdirs("detection_msgs")
+subdirs("ar_track_alvar/ar_track_alvar_msgs")
+subdirs("vesc/vesc")
+subdirs("vesc/vesc_msgs")
+subdirs("image_pipeline/camera_calibration")
+subdirs("racecar/ackermann_cmd_mux")
+subdirs("razor_imu_9dof")
+subdirs("darknet_ros/darknet_ros_msgs")
+subdirs("darknet_ros/darknet_ros")
+subdirs("image_pipeline/image_proc")
+subdirs("image_pipeline/image_publisher")
+subdirs("rplidar_ros")
+subdirs("image_pipeline/image_view")
+subdirs("image_pipeline/depth_image_proc")
+subdirs("fiducials/fiducial_msgs")
+subdirs("ar_track_alvar/ar_track_alvar")
+subdirs("fiducials/fiducial_slam")
+subdirs("image_pipeline/image_rotate")
+subdirs("obstacle_detector")
+subdirs("usb_cam")
+subdirs("vesc/vesc_ackermann")
+subdirs("vesc/vesc_driver")
+subdirs("fiducials/aruco_detect")
+subdirs("fiducials/stag_detect")
+subdirs("wego")
+subdirs("yolov5_ros")
